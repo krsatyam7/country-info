@@ -26,7 +26,7 @@ print("\nOther names :",country.alt_spellings())
 print("\nArea is :",country.area(),"Km²")
 
 # printing the population of the country
-print("\nPopulation code is :",country.population())
+print("\nPopulation is :",country.population())
 
 # printing the calling code of the country
 print("\nCalling code is :",country.calling_codes())

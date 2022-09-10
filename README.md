@@ -1,6 +1,10 @@
 # country-info
 A python module for returning data about countries, ISO info and states/provinces within them.
 
+**Run this code online by clicking this** [link](https://colab.research.google.com/drive/16OJTXF9CK5qIv4r2B72dIMpVMF52FQj9)
+1. Run [cell 1](https://colab.research.google.com/drive/16OJTXF9CK5qIv4r2B72dIMpVMF52FQj9#scrollTo=EE3DjNH42xHa)
+2. Then run [cell 2](https://colab.research.google.com/drive/16OJTXF9CK5qIv4r2B72dIMpVMF52FQj9#scrollTo=bEGMwcaY270U)
+3. Give country name as and input and you are done.
 # Python Module used 
 * [countryinfo](https://pypi.org/project/countryinfo/)
  *  Module used in this repo belong to their respective owners and I or this repo does not claim any right over them.

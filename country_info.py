@@ -46,4 +46,4 @@ print("\n\033[1mWikipedia Link :\033[0m",country.wiki())
       
       
 # used print("\033[1m xxxxxx \033[0m") to print text in bold format.
-# just replace xxxxxx with your desired word to print the text.
+# just replace xxxxxx with your desired word to print the text in bold characters.

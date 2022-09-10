@@ -5,11 +5,10 @@ A python module for returning data about countries, ISO info and states/province
 * [countryinfo](https://pypi.org/project/countryinfo/)
  *  Module used in this repo belong to their respective owners and I or this repo does not claim any right over them.
  
- 
+ **********************************
  
 <b> Note : </b> File "country_info.py" will not run on basic python idle, due to some limitations (unable to print bold characters).
-           use another file "country_info1.py" to run it in basic idles.
- 
+           use another file "country_info1.py" to run it in basic idles
 
 ## Table of Contents
 
